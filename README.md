@@ -86,7 +86,7 @@ Credit cards are the dominant payment method.
 This suggests limited customer retention and an opportunity to increase repeat purchases.
 
 ## Business Recommendations
-1. Improve Customer Retention by ntroducing loyalty programs, discounts for repeat purchases, and Subscription services. This can increase customer lifetime value.
+1. Improve Customer Retention by introducing loyalty programs, discounts for repeat purchases, and Subscription services. This can increase customer lifetime value.
 2. Improve delivery performance in Capinzal do Norte, Novo Brasil, and other high shipping days cities. Possible solutions includes; local warehouses, and courier partnerships.
 3. Improve Product Quality Monitoring by focus on high-complaint categories such as Health & Beauty as this may reduce cancellations and negative reviews.
 4. Encourage more customers to leave reviews through email reminders, discounts, reward points as more reviews improve customer insight.
