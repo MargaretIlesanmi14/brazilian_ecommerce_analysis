@@ -85,6 +85,12 @@ Credit cards are the dominant payment method.
 9. Customer Retention Problem: Most customers appear as one-time buyers.
 This suggests limited customer retention and an opportunity to increase repeat purchases.
 
+![Olist 1](https://github.com/user-attachments/assets/414e45b1-1d5a-40fd-8bf9-25f9a171817c)
+![Olist 2](https://github.com/user-attachments/assets/a819ea2a-3bae-468d-809e-b78c7b81013b)
+![Olist 3](https://github.com/user-attachments/assets/e3610c0c-39d9-4d71-ae5f-8312ee9fc7a9)
+![Olist 4](https://github.com/user-attachments/assets/1b72e69f-62d1-43c5-96d1-2d42acbf7831)
+
+
 ## Business Recommendations
 1. Improve Customer Retention by introducing loyalty programs, discounts for repeat purchases, and Subscription services. This can increase customer lifetime value.
 2. Improve delivery performance in Capinzal do Norte, Novo Brasil, and other high shipping days cities. Possible solutions includes; local warehouses, and courier partnerships.
