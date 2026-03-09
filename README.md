@@ -97,6 +97,9 @@ This suggests limited customer retention and an opportunity to increase repeat p
 3. Improve Product Quality Monitoring by focus on high-complaint categories such as Health & Beauty as this may reduce cancellations and negative reviews.
 4. Encourage more customers to leave reviews through email reminders, discounts, reward points as more reviews improve customer insight.
 
+## Future Outlook
+If customer retention strategies and logistics efficiency continue to improve, Olist could significantly increase customer lifetime value and long-term revenue growth. Strengthening repeat purchase behavior and maintaining delivery reliability will likely be key drivers of sustainable expansion.
+
 ## Key Takeaways
 This project demonstrates how data analytics can help e-commerce businesses:
 - Understand growth trends
