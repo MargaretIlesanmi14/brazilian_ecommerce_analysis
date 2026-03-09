@@ -85,10 +85,10 @@ Credit cards are the dominant payment method.
 9. Customer Retention Problem: Most customers appear as one-time buyers.
 This suggests limited customer retention and an opportunity to increase repeat purchases.
 
-![Olist 1](https://github.com/user-attachments/assets/414e45b1-1d5a-40fd-8bf9-25f9a171817c)
-![Olist 2](https://github.com/user-attachments/assets/a819ea2a-3bae-468d-809e-b78c7b81013b)
-![Olist 3](https://github.com/user-attachments/assets/e3610c0c-39d9-4d71-ae5f-8312ee9fc7a9)
-![Olist 4](https://github.com/user-attachments/assets/1b72e69f-62d1-43c5-96d1-2d42acbf7831)
+![Olist 1](https://github.com/user-attachments/assets/1f4ee2c9-8510-4737-9ded-cdac99f66de2)
+![Olist 2](https://github.com/user-attachments/assets/35a2b05b-d13e-4a59-8b67-250e3e833e49)
+![Olist 3](https://github.com/user-attachments/assets/5eb19dda-f285-4c79-91a7-d00cbf02345c)
+![Olist 4](https://github.com/user-attachments/assets/9845f19b-d789-4f02-bd24-a1c0d73f08aa)
 
 
 ## Business Recommendations
